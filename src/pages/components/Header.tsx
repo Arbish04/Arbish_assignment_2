@@ -1,5 +1,4 @@
 // components/Header.tsx
-// components/Header.tsx
 import React from 'react';
 
 const Header = () => {
